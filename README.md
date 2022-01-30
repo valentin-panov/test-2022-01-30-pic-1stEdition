@@ -1,6 +1,6 @@
 # Тестовое задание
 
-[![Build status](https://ci.appveyor.com/api/projects/status/lxs27ccbjknr3ptp?svg=true)](https://ci.appveyor.com/project/vapanov/test-2022-01-30-pic-1stEdition)
+[![Build status](https://ci.appveyor.com/api/projects/status/q3ril428na9tnjje?svg=true)](https://ci.appveyor.com/project/vapanov/test-2022-01-30-pic-1stedition)
 
 WEB VERSION https://valentin-panov.github.io/test-2022-01-30-pic-1stEdition/
 
