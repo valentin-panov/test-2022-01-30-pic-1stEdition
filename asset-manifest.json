@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-2022-01-30-pic-1stEdition/static/css/main.1e8e5191.chunk.css",
+    "main.js": "/test-2022-01-30-pic-1stEdition/static/js/main.0dc3c013.chunk.js",
+    "runtime-main.js": "/test-2022-01-30-pic-1stEdition/static/js/runtime-main.f91e6eae.js",
+    "static/js/2.55c739fc.chunk.js": "/test-2022-01-30-pic-1stEdition/static/js/2.55c739fc.chunk.js",
+    "index.html": "/test-2022-01-30-pic-1stEdition/index.html",
+    "static/js/2.55c739fc.chunk.js.LICENSE.txt": "/test-2022-01-30-pic-1stEdition/static/js/2.55c739fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f91e6eae.js",
+    "static/js/2.55c739fc.chunk.js",
+    "static/css/main.1e8e5191.chunk.css",
+    "static/js/main.0dc3c013.chunk.js"
+  ]
+}
