@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "homepage": "https://valentin-panov.github.io/test-2022-01-30-pic/",
+  "homepage": "https://valentin-panov.github.io/test-2022-01-30-pic-1stEdition/",
   "sideEffects": [
     "**/*.scss"
   ],
